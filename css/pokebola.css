@@ -27,6 +27,7 @@ body{
     justify-content: center;
     align-items: center;
     transform: scale(1.2);
+    overflow: hidden;
 }
 .branco{
     margin-top: 150px;
@@ -43,7 +44,7 @@ body{
     margin-bottom: 150px;
     position: relative;
     width: 300px;
-    height: 10px;
+    height: 25px;
     background-color: #000000;
     display: flex;
     justify-content: center;
